@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on any Programming Projects
 - 📫 How to reach me: shaikatpal56@gmail.com
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaikat17&count_private=true&theme=blueberry&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaikat17&count_private=true&theme=blueberry&show_icons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat17&langs_count=7&theme=blueberry)]()
