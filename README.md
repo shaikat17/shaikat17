@@ -1,7 +1,5 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shaikat17.visitor-badge)
-
 ### Hi there 👋
-
 - 👋 I'm Shaikat Chandra Paul
 - 👀 I’m interested in Python, C, C++, JavaScript
 - 🔭 I’m currently working on Web Development
