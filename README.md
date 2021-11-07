@@ -36,6 +36,8 @@
 <img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-ReactJS-E34F26?style=flat-square&logo=react&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-JavaScript-410559?style=flat-square&logo=javascript&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Python-054d85?style=flat-square&logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-NodeJS-698505?style=flat-square&logo=node.js&logoColor=white" height="25">
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
