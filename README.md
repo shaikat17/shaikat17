@@ -38,6 +38,8 @@
 <img src="https://img.shields.io/badge/-JavaScript-410559?style=flat-square&logo=javascript&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Python-054d85?style=flat-square&logo=python&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-NodeJS-698505?style=flat-square&logo=node.js&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Bootstrap-121D33?style=flat-square&logo=bootstrap&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-ExpressJS-DA3940?style=flat-square&logo=Express&logoColor=white" height="25">
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
@@ -49,5 +51,4 @@
 <h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shaikat17.visitor-badge)
