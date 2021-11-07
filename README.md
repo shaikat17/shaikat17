@@ -8,8 +8,7 @@
 - 👯 I’m looking to collaborate on any Programming Projects
 - 📫 How to reach me: shaikatpal56@gmail.com
 
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shaikat17.visitor-badge)
-
+<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2> 
 <p>
   <a href="mailto:shaikatpal56@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shaikat-paul" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -21,3 +20,5 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaikat17&count_private=true&theme=midnight-purple&show_icons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat17&langs_count=7&theme=midnight-purple)]()
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shaikat17.visitor-badge)
