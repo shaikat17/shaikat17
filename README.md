@@ -54,7 +54,6 @@
 <h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
-
  ### Graph
 
 <div align="center">
