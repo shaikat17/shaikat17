@@ -44,11 +44,27 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
+<div align="left">
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaikat17&count_private=true&theme=midnight-purple&show_icons=true)]()
+  
+</div>
+
+<div align="right">
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat17&langs_count=7&theme=midnight-purple)]()
+  
+ </div>
 
 <h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
+
+ ### Graph
+
+<div align="center">
+  [![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+
+  </div>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shaikat17.visitor-badge)
