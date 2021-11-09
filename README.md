@@ -50,6 +50,14 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat17&langs_count=7&theme=midnight-purple)]()
   
  </div>
+ 
+ <h2>Streak</h2>
+ 
+ <div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchitbajaj02&theme=chartreuse-dark)](https://git.io/streak-stats)
+  
+  </div>
 
 <h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
 
