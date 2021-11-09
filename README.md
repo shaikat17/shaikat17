@@ -58,9 +58,13 @@
  ### Graph
 
 <div align="center">
+  
   [![Shaikat's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaikat17&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=shaikat17&theme=dracula)
 
-  </div>
+ </div>
+
 <div align="center">
+  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shaikat17.visitor-badge)
+  
 </div>
