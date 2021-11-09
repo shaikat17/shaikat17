@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1D0AF6&size=30&center=true&vCenter=true&width=900&lines=Hi+There+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1D0AF6&size=30&center=true&vCenter=true&width=900&lines=Hi+There+!+WellCome)](https://git.io/typing-svg)
 <hr>
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2> 
