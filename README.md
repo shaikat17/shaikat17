@@ -44,14 +44,9 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
-<div align="left">
+<div align="center">
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaikat17&count_private=true&theme=midnight-purple&show_icons=true)]()
-  
-</div>
-
-<div align="right">
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat17&langs_count=7&theme=midnight-purple)]()
   
  </div>
@@ -63,8 +58,9 @@
  ### Graph
 
 <div align="center">
-  [![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+  [![Shaikat's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaikat17&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
 
   </div>
-
+<div align="center">
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shaikat17.visitor-badge)
+</div>
