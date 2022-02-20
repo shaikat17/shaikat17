@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-121D33?style=flat-square&logo=bootstrap&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-ExpressJS-DA3940?style=flat-square&logo=Express&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Wordpress-041562?style=flat-square&logo=Wordpress&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white" height="25">
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
