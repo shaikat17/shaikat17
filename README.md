@@ -69,7 +69,7 @@
 
 <div align="center">
   
-  [![Shaikat's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaikat17&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=shaikat17&theme=dracula)
+  [![Shaikat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shaikat17&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)]([https://activity-graph.herokuapp.com](https://github-readme-activity-graph.cyclic.app)/graph?username=shaikat17&theme=dracula)
 
  </div>
 
