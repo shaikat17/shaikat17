@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/-PHP-db0fa5?style=flat-square&logo=php&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/-Tailwindcss-D0657A?style=flat-square&logo=tailwindcss&logoColor=white" height="25">
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
