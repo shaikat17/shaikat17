@@ -48,6 +48,11 @@
   <img src="https://img.shields.io/badge/-Sass-40407a?style=flat-square&logo=sass&logoColor=white" height="25">
 </p>
 
+## 🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/shaikatpal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
+
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
 <div align="center">
