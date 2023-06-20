@@ -40,10 +40,10 @@
 <img src="https://img.shields.io/badge/-NodeJS-698505?style=flat-square&logo=node.js&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Bootstrap-121D33?style=flat-square&logo=bootstrap&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-ExpressJS-DA3940?style=flat-square&logo=Express&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-Wordpress-041562?style=flat-square&logo=Wordpress&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-PHP-db0fa5?style=flat-square&logo=php&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" height="25">
+<!-- <img src="https://img.shields.io/badge/-Wordpress-041562?style=flat-square&logo=Wordpress&logoColor=white" height="25"> -->
+<!-- <img src="https://img.shields.io/badge/-PHP-db0fa5?style=flat-square&logo=php&logoColor=white" height="25"> -->
+<!-- <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"> -->
+<!--   <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" height="25"> -->
   <img src="https://img.shields.io/badge/-Tailwindcss-D0657A?style=flat-square&logo=tailwindcss&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-Sass-40407a?style=flat-square&logo=sass&logoColor=white" height="25">
 </p>
