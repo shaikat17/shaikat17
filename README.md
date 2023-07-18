@@ -83,6 +83,6 @@
 
 <div align="center">
   
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shaikat17.visitor-badge)
+![Visitor Badge](https://komarev.com/ghpvc/?username=shaikat17&style=for-the-badge)
   
 </div>
