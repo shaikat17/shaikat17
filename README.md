@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/-Tailwindcss-D0657A?style=flat-square&logo=tailwindcss&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-Sass-40407a?style=flat-square&logo=sass&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=sass&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-NextdotJS-164863?style=flat-square&logo=sass&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/-NextJS-4F6F52?style=flat-square&logo=sass&logoColor=white" height="25">
 </p>
 
 ## 🤝 Support Me:
