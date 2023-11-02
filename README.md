@@ -46,7 +46,7 @@
 <!--   <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" height="25"> -->
   <img src="https://img.shields.io/badge/-Tailwindcss-D0657A?style=flat-square&logo=tailwindcss&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-Sass-40407a?style=flat-square&logo=sass&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=sass&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=sass&logoColor=white" height="25">
 </p>
 
 ## 🤝 Support Me:
