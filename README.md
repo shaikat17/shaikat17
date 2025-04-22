@@ -60,7 +60,7 @@
 <div align="center">
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaikat17&count_private=true&theme=midnight-purple&show_icons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat17&langs_count=12&theme=midnight-purple)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikat17&langs_count=08&theme=midnight-purple)]()
   
  </div>
  
