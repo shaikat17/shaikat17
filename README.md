@@ -68,7 +68,7 @@
  
  <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaikat17&theme=chartreuse-dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shaikat17&theme=chartreuse-dark)](https://git.io/streak-stats)
   
   </div>
 
